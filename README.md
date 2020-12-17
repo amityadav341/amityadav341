@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**amityadav341/amityadav341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm B Tech. Student at National Institute of Technology, Arunachal Pradesh
 - 🔭 I’m  a Web Developer
 - 🌱 I’m currently working on enhancing my coding skill.
@@ -13,4 +9,3 @@ I'm B Tech. Student at National Institute of Technology, Arunachal Pradesh
 <i class="Linkedin"></i>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
